@@ -13,3 +13,4 @@ At this moment, this repository contains the following models:
 Several useful packages for option pricing: 
 
 [vollib](https://github.com/vollib/vollib) is a python library for calculating option prices, implied volatility and greeks.
+[optlib](https://github.com/dbrojas/optlib) is a library to fetch financial option chains and price options using closed-form solutions written in Python. 
